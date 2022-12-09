@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/metadata.ts"
+    "start": "ts-node src/metadata.ts",
+    "dev": "ts-node src/convertToUint8Array.ts"
   },
   "keywords": [],
   "author": "",
